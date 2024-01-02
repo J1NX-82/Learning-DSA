@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "xutility": "cpp",
+        "stack": "cpp",
+        "iostream": "cpp",
+        "queue": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

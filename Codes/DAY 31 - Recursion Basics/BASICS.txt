@@ -1,0 +1,4 @@
+Recursion uses an in-built stack that storesrecursive calls.
+Hence, the number of recursive calls must be as small as possible to avoid memory-overflow. 
+If the number of recursion calls exceeded the maximum permissible amount, therecursion depth*will be exceeded. 
+This condition is calledstack overflow.
